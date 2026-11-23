@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=WA+SWINOMISH+INDIAN+TRIBAL+COMMUNITY",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=WA+SWINOMISH+INDIAN+TRIBAL+COMMUNITY",
+  "title": "Federal Register - WA SWINOMISH INDIAN TRIBAL COMMUNITY",
+  "fetched_at": "2026-11-23T17:50:55.192128Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 282591,
+  "sha256": "28bb7a214c4532f9aad48aa4b9f55a631cb97b5b73c9201d37115cf2c765e02f",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
